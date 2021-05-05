@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'iCielMedium';
-  src: local('iCielMedium'), url('./fonts/iCiel-Medium.ttf') format(true);
-  font-weight: normal;
+  src: local('iCielMedium'), url(./fonts/iCiel-Medium.ttf) format(true);
+  font-weight: bold;
 }
 
 *{
