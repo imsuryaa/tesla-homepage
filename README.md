@@ -1,8 +1,11 @@
 ## Tesla Homepage with React
 This is a beginner friendly application with React
 
+```Note - It is just a sample and minor bugs needs to fixed.```
+
 ## To run this application
 ```
+clone this repo
 npm install
 npm start
 ```
